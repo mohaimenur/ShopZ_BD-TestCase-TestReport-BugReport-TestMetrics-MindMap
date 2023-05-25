@@ -1,4 +1,4 @@
-# ShopZ_BD-TestCase-TestReport-BugReport-Testmetrics-MindMap
+# ShopZ_BD-TestCase-TestReport-BugReport-TestMetrics-MindMap
 
 ShopZ_BD (https://www.shopz.com.bd/)
 
